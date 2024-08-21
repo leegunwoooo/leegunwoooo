@@ -1,9 +1,9 @@
 ## 안녕하세요 노력하는 중인 이건우라고합니다.
-<div>
+<div align="center">
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leegunwoooo&layout=compact)
 </div>
 <br>
-<div>
+<div align="center">
   ![leegunwoooo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leegunwoooo&show_icons=true&theme=dark)
 </div>
 

@@ -1,5 +1,5 @@
-## 안녕하세요
-![leegunwoooo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leegunwoooo&show_icons=true&theme=radical)
+## 안녕하세요 노력하고있습니다.
+![leegunwoooo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leegunwoooo&show_icons=true&theme=rad)
 
 
 <!--

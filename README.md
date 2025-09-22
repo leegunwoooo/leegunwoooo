@@ -9,14 +9,6 @@
           <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
           </div>
     </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 연락처 </h2> <br> 
-    <div style="text-align: left;"> <a href=https://www.instagram.com/leegunwooooo/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/leegunwooooo/"> </a>
-         <a href=https://fabulous-xylophone-699.notion.site/633c46fc8b494469beceec982be5d5e2> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://fabulous-xylophone-699.notion.site/633c46fc8b494469beceec982be5d5e2"> </a>
-         <a href=mailto:https://mail.google.com/mail/u/0/#inbox> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:https://mail.google.com/mail/u/0/#inbox"> </a>
-          </div>  <br> 
-    <div style="text-align: left;">  </div> 
-    </div>
     <div style="text-align: left;"> 
        <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 📚 이런 언어를 사용하고 있어요. </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=leegunwoooo&bg_color=180,000000,00000000&title_color=ffffff&text_color=ffffff"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leegunwoooo&layout=compact&bg_color=180,000000,00000000&title_color=ffffff&text_color=ffffff"

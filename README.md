@@ -1,4 +1,4 @@
-## 안녕하세요 노력하고 있는중인 이건우입니다. 
+## 안녕하세요 노력하는 이건우입니다. 
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ 스택 </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;">
